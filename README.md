@@ -10,7 +10,7 @@
 ![Pantalla Principal](./public/img/main_page.png)
 
 ### Calculadora
-![Calculadora](./public/img/calcultator.png)
+![Calculadora](./public/img/calculator.png)
 
 ---
 
