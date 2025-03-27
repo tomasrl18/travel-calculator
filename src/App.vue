@@ -1,7 +1,7 @@
 <script setup>
-import TravelCalculator from './components/TravelCalculator.vue'
+import Hola from './components/Hola.vue'
 </script>
 
 <template>
-  <TravelCalculator />
+  <Hola />
 </template>
