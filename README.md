@@ -26,6 +26,7 @@
 ## 🛠️ Tecnologías Utilizadas
 
 - **[Vue 3](https://vuejs.org/)**: Framework de JavaScript para la interfaz de usuario.
+- **[Vue Router](https://router.vuejs.org/)**: Biblioteca oficial para el manejo de rutas en aplicaciones Vue. Permite crear y gestionar rutas dinámicas, navegación entre vistas y parámetros en la URL de manera sencilla.
 - **[Vite](https://vitejs.dev/)**: Herramienta de desarrollo rápida y moderna.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Framework de CSS para un diseño elegante y responsivo.
 
